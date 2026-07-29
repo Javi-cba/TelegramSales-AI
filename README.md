@@ -73,3 +73,5 @@ También se puede cambiar fácilmente:
 ## Nota
 
 Lo armé como un proyecto para experimentar con agentes de IA en n8n. La idea es tener una base simple sobre la que después se puedan conectar catálogos reales y sistemas de e-commerce.
+
+<img width="1026" height="709" alt="image" src="https://github.com/user-attachments/assets/261cdcbc-0041-4264-8849-3bc730961469" />
